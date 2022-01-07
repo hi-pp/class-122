@@ -1,0 +1,13 @@
+body {
+    background-color: cornflowerblue;
+}
+
+span {
+    font-size: 18px;
+    color: darkblue;
+}
+
+canvas {
+    background: darkorange;
+    border-radius: 50px;
+}
